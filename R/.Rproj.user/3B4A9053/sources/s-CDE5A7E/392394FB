@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1545433675045.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "84373174",
+    "id" : "392394FB",
+    "lastKnownWriteTime" : 1545591874,
+    "last_content_update" : 1545591874629,
+    "path" : "~/Projects/Propolis_Stuff/All projects/Homelessness-Maps/R/prep-data-for-map.R",
+    "project_path" : "prep-data-for-map.R",
+    "properties" : {
+        "cursorPosition" : "6,8",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1545524134656.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "745F4397",
+    "lastKnownWriteTime" : 4328721120,
+    "last_content_update" : 1545524134656,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "8EFFA879",
+        "caption" : "homeless_deaths_h",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=homeless_deaths_h&cache_key=8EFFA879",
+        "displayedObservations" : 2,
+        "environment" : "",
+        "object" : "homeless_deaths_h",
+        "preview" : 0,
+        "totalObservations" : 2,
+        "variables" : 26
+    },
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}
