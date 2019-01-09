@@ -19,4 +19,6 @@ I used R to make the frames for the gif. Pretty sure there's a way to do similar
 
 * ONS have since estimated a higher number of deaths to homeless people.
 
+* Deaths have been geocoded to the approximate centroid of the place where the person was reported to have died.
+
 
